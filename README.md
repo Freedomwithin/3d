@@ -26,13 +26,13 @@ git clone https://github.com/Freedomwithin/3d
 
 2. Navigate to project directory
 
-cd freedom-within-3d
+  cd freedom-within-3d
 
 4. Install dependencies
 
 npm install
 ## Running the Project
-npm run dev
+  npm run dev
 
 ## Deployment
 Project can be deployed on GitHub Pages or similar static site hosting platforms.
