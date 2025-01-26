@@ -25,9 +25,11 @@ A dynamic 3D scene featuring interactive text "FREEDOM" and "WITHIN" with partic
 git clone https://github.com/Freedomwithin/3d
 
 2. Navigate to project directory
+
 cd freedom-within-3d
 
-3. Install dependencies
+4. Install dependencies
+
 npm install
 ## Running the Project
 npm run dev
